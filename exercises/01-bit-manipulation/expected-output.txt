@@ -1,0 +1,7 @@
+Initial: 00000000 (0x00)
+LED on: 00000001 (0x01)
+Motor on: 00000101 (0x05)
+Alarm toggled: 10000101 (0x85)
+LED off: 10000100 (0x84)
+Motor bit: 1
+LED bit: 0
